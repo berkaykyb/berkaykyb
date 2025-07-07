@@ -21,7 +21,6 @@
 
 - 🇹🇷 **Turkish** – Native language  
 - 🇬🇧 **English** – B2 level *(Upper-Intermediate – still improving)*  
-- 🇩🇪 **German** – Beginner *(A1 – currently taking lessons)*
 
 
 ## 📫 Contact
