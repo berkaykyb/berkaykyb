@@ -3,8 +3,8 @@
 
 ## 👨‍💻 About Me
 
-🌍 I was born in 2003 and am currently living in Turkey.  
-🎓 I'm a 3rd-year Computer Engineering student at [Eskişehir Osmangazi University](https://www.ogu.edu.tr/).
+- I was born in 2003 and am currently living in Turkey.  
+- I'm a 3rd-year Computer Engineering student at [Eskişehir Osmangazi University](https://www.ogu.edu.tr/).
 
 
 ## 🛠️ Tools & Technologies I Use
