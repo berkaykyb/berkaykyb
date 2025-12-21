@@ -33,8 +33,6 @@
 
 - 🇹🇷 **Turkish** – Native language  
 - 🇬🇧 **English** – B2 level *(Upper-Intermediate – still improving)* 
-- 🇩🇪 **German** – A2 level *(Beginner – currently taking lessons)*
-
 
 ## 📫 Contact
 
