@@ -14,33 +14,15 @@
 <br>
 
 <p align="center">
-  <a href="mailto:berkayabasi2003@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="44" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/berkay-kayaba%C5%9F%C4%B1-7a1632266/">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="44" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/b.kayabasii">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="44" alt="Instagram" />
-  </a>
+  <a href="mailto:berkayabasi2003@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" width="44" alt="Gmail"></a>&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;
+  <a href="https://www.linkedin.com/in/berkay-kayaba%C5%9F%C4%B1-7a1632266/"><img src="https://img.icons8.com/color/48/linkedin.png" width="44" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;
+  <a href="https://www.instagram.com/b.kayabasii"><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="44" alt="Instagram"></a>
 </p>
 
 <br>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Public-2EA44F?style=flat-square" alt="Public" />
-  &nbsp;
-  My public repositories mostly include university projects, small experiments, and learning projects.
+  <img src="./assets/repositories.svg" alt="Public and private repositories" width="760">
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Private-6E40C9?style=flat-square" alt="Private" />
-  &nbsp;
-  I keep my commercial products, field-related work, and major projects in private repositories.
-</p>
-
 <br>
 
 <p align="center">
