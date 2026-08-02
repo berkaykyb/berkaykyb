@@ -7,7 +7,6 @@
   aria-labelledby="title description"
 >
   <title id="title">Hello World terminal</title>
-
   <desc id="description">
     A simple two-line Hello World terminal message.
   </desc>
@@ -18,28 +17,31 @@
       <stop offset="100%" stop-color="#a371f7"/>
     </linearGradient>
   </defs>
-  
-  <text
-    x="380"
-    y="48"
-    fill="url(#textGradient)"
-    font-family="'Courier New', Consolas, monospace"
-    font-size="46"
-    font-weight="500"
-    text-anchor="middle"
-  >
-    &gt; HELLO WORLD!
-  </text>
 
-  <text
-    x="380"
-    y="91"
-    fill="#3fb950"
-    font-family="'Courier New', Consolas, monospace"
-    font-size="30"
-    font-weight="400"
-    text-anchor="middle"
-  >
-    &gt;_
-  </text>
+  <!-- Tüm bloğu ortalamak için grup -->
+  <g transform="translate(192, 0)">
+    <text
+      x="0"
+      y="48"
+      fill="url(#textGradient)"
+      font-family="'Courier New', Consolas, monospace"
+      font-size="46"
+      font-weight="500"
+      text-anchor="start"
+    >
+      &gt; HELLO WORLD!
+    </text>
+
+    <text
+      x="0"
+      y="91"
+      fill="#3fb950"
+      font-family="'Courier New', Consolas, monospace"
+      font-size="30"
+      font-weight="400"
+      text-anchor="start"
+    >
+      &gt;_
+    </text>
+  </g>
 </svg>
