@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/berkaykyb/berkaykyb/main/assets/hello-world.svg"
+    src="https://raw.githubusercontent.com/berkaykyb/berkaykyb/main/assets/hello-world.svg?v=4"
     alt="Hello World terminal"
     width="760"
   >
