@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/17c339a2-830e-4026-99ec-a7d3ea209285" alt="Hello World" />
+  <img
+    src="https://raw.githubusercontent.com/berkaykyb/berkaykyb/main/assets/hello-world.svg"
+    alt="Hello World terminal"
+    width="760"
+  >
 </p>
-
-<br>
-
 <p align="center">
   Born in 2003 · Based in Turkey
   <br>
