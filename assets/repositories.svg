@@ -1,8 +1,8 @@
 <svg
   xmlns="http://www.w3.org/2000/svg"
   width="760"
-  height="170"
-  viewBox="0 0 760 170"
+  height="150"
+  viewBox="0 0 760 150"
   role="img"
   aria-labelledby="title description"
 >
@@ -26,7 +26,7 @@
   <!-- Public başlığı -->
   <rect
     x="120"
-    y="8"
+    y="6"
     width="120"
     height="34"
     rx="17"
@@ -35,7 +35,7 @@
 
   <text
     x="180"
-    y="30"
+    y="28"
     fill="#ffffff"
     font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif"
     font-size="16"
@@ -48,7 +48,7 @@
   <!-- Private başlığı -->
   <rect
     x="520"
-    y="8"
+    y="6"
     width="120"
     height="34"
     rx="17"
@@ -57,7 +57,7 @@
 
   <text
     x="580"
-    y="30"
+    y="28"
     fill="#ffffff"
     font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif"
     font-size="16"
@@ -70,9 +70,9 @@
   <!-- Ortadaki çizgi -->
   <line
     x1="380"
-    y1="18"
+    y1="20"
     x2="380"
-    y2="150"
+    y2="128"
     stroke="#9ca3af"
     stroke-width="1"
     opacity="0.8"
@@ -81,32 +81,30 @@
   <!-- Public açıklaması -->
   <text
     x="180"
-    y="76"
+    y="72"
     fill="#ffffff"
     font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif"
-    font-size="13"
+    font-size="12.5"
     font-weight="400"
     text-anchor="middle"
   >
     <tspan x="180" dy="0">My public repositories mostly</tspan>
-    <tspan x="180" dy="22">include university projects,</tspan>
-    <tspan x="180" dy="22">small experiments,</tspan>
-    <tspan x="180" dy="22">and learning projects.</tspan>
+    <tspan x="180" dy="19">include university projects,</tspan>
+    <tspan x="180" dy="19">small experiments, and learning projects.</tspan>
   </text>
 
   <!-- Private açıklaması -->
   <text
     x="580"
-    y="76"
+    y="72"
     fill="#ffffff"
     font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif"
-    font-size="13"
+    font-size="12.5"
     font-weight="400"
     text-anchor="middle"
   >
     <tspan x="580" dy="0">I keep my commercial products,</tspan>
-    <tspan x="580" dy="22">field-related work,</tspan>
-    <tspan x="580" dy="22">and major projects</tspan>
-    <tspan x="580" dy="22">in private repositories.</tspan>
+    <tspan x="580" dy="19">field-related work, and major projects</tspan>
+    <tspan x="580" dy="19">in private repositories.</tspan>
   </text>
 </svg>
