@@ -27,6 +27,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Total_Repositories-15-181717?style=for-the-badge&logo=github&logoColor=white" alt="Total repositories" />
-  &nbsp;
+  &emsp;&emsp;
   <img src="https://img.shields.io/badge/Private_Repositories-5-6E40C9?style=for-the-badge&logo=github&logoColor=white" alt="Private repositories" />
 </p>
