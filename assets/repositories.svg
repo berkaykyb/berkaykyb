@@ -1,0 +1,112 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="760"
+  height="170"
+  viewBox="0 0 760 170"
+  role="img"
+  aria-labelledby="title description"
+>
+  <title id="title">Public and private repositories</title>
+  <desc id="description">
+    Description of the projects stored in public and private repositories.
+  </desc>
+
+  <defs>
+    <linearGradient id="publicGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#20c852"/>
+      <stop offset="100%" stop-color="#43d85f"/>
+    </linearGradient>
+
+    <linearGradient id="privateGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#5424df"/>
+      <stop offset="100%" stop-color="#833df1"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Public başlığı -->
+  <rect
+    x="120"
+    y="8"
+    width="120"
+    height="34"
+    rx="17"
+    fill="url(#publicGradient)"
+  />
+
+  <text
+    x="180"
+    y="30"
+    fill="#ffffff"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif"
+    font-size="16"
+    font-weight="600"
+    text-anchor="middle"
+  >
+    Public
+  </text>
+
+  <!-- Private başlığı -->
+  <rect
+    x="520"
+    y="8"
+    width="120"
+    height="34"
+    rx="17"
+    fill="url(#privateGradient)"
+  />
+
+  <text
+    x="580"
+    y="30"
+    fill="#ffffff"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif"
+    font-size="16"
+    font-weight="600"
+    text-anchor="middle"
+  >
+    Private
+  </text>
+
+  <!-- Ortadaki çizgi -->
+  <line
+    x1="380"
+    y1="18"
+    x2="380"
+    y2="150"
+    stroke="#9ca3af"
+    stroke-width="1"
+    opacity="0.8"
+  />
+
+  <!-- Public açıklaması -->
+  <text
+    x="180"
+    y="76"
+    fill="#ffffff"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif"
+    font-size="13"
+    font-weight="400"
+    text-anchor="middle"
+  >
+    <tspan x="180" dy="0">My public repositories mostly</tspan>
+    <tspan x="180" dy="22">include university projects,</tspan>
+    <tspan x="180" dy="22">small experiments,</tspan>
+    <tspan x="180" dy="22">and learning projects.</tspan>
+  </text>
+
+  <!-- Private açıklaması -->
+  <text
+    x="580"
+    y="76"
+    fill="#ffffff"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif"
+    font-size="13"
+    font-weight="400"
+    text-anchor="middle"
+  >
+    <tspan x="580" dy="0">I keep my commercial products,</tspan>
+    <tspan x="580" dy="22">field-related work,</tspan>
+    <tspan x="580" dy="22">and major projects</tspan>
+    <tspan x="580" dy="22">in private repositories.</tspan>
+  </text>
+</svg>
