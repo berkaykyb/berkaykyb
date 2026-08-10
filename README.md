@@ -33,7 +33,7 @@
   >
   &emsp;&emsp;
   <img
-    src="https://img.shields.io/badge/PRIVATE%20REPOSITORIES-5-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22"
+    src="https://img.shields.io/badge/PRIVATE%20REPOSITORIES-6-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22"
     alt="Private repositories"
   >
 </p>
