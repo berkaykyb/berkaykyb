@@ -26,15 +26,3 @@
   <img src="./assets/repositories.svg" alt="Public and private repositories" width="760">
 </p>
 <br>
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/TOTAL%20REPOSITORIES-16-2ea043?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22"
-    alt="Total repositories"
-  >
-  &emsp;&emsp;
-  <img
-    src="https://img.shields.io/badge/PRIVATE%20REPOSITORIES-5-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22"
-    alt="Private repositories"
-  >
-</p>
